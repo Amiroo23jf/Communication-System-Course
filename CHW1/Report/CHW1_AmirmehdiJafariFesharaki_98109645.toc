@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}توضیجات اولیه}{3}%
+\contentsline {section}{\numberline {2}کانال چند مسیره}{3}%
+\contentsline {subsection}{\numberline {2.1}رسم نمودار \lr {x(t)}}{3}%
+\contentsline {subsection}{\numberline {2.2}تولید کانال با متغیرهای تصادفی}{4}%
+\contentsline {subsection}{\numberline {2.3}رابطه میان فاصله دره‌های پاسخ فرکانسی}{4}%
+\contentsline {subsection}{\numberline {2.4}کانال نمونه‌برداری شده}{6}%
+\contentsline {section}{\numberline {3}بازیابی سیگنال خروجی از کانال چند مسیره}{7}%
+\contentsline {subsection}{\numberline {3.1}محاسبه پارامترهای جبران‌ساز}{7}%
+\contentsline {subsection}{\numberline {3.2}ساختار جبران‌ساز}{8}%
+\contentsline {subsection}{\numberline {3.3}نمودار سیگنال ورودی}{9}%
+\contentsline {subsection}{\numberline {3.4}پاسخ فرکانسی کانال}{10}%
+\contentsline {subsection}{\numberline {3.5}مقایسه ورودی و خروجی کانال}{11}%
+\contentsline {subsection}{\numberline {3.6}بازیابی سیگنال}{12}%
+\contentsline {subsection}{\numberline {3.7}مقایسه سیگنال‌ها}{13}%
